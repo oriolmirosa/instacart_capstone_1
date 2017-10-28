@@ -18,7 +18,7 @@ https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 
 As the dictionary states, the dataset contains over 32 million rows, each referring to a product in a given order for a particular customer.
 
-These are the data wrangling steps that I undertook before analyzing the data (the whole process with code can be found in [this notebook](https://github.com/oriolmirosa/instacart_capstone_1/data_wrangling/data_wrangling.ipynb)):
+These are the data wrangling steps that I undertook before analyzing the data (the whole process with code can be found in [this notebook](https://github.com/oriolmirosa/instacart_capstone_1/blob/master/data_wrangling/data_wrangling.ipynb)):
 
 1. Loading and merging data
 
